@@ -14,5 +14,5 @@
 - Focusing on machine learning in healthcare applications and medical data predictive modeling.
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](
+(www.linkedin.com/in/
 sai-deva-harshini-talluri)
